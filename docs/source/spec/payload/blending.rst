@@ -3,7 +3,7 @@ Blending
 ========
 
 | Inochi2D allows for porter-duff blending modes to be applied to Part nodes and Composite nodes, these blending nodes affect how colors are mixed on compositing with the screen.
-| Additionally the special blending modes "Clip to Lower" and "Slice from Lower" are supported to provide a nicer looking but less flexible form of masking.
+| Additionally, the special blending modes "Clip to Lower" and "Slice from Lower" are supported to provide a nicer looking but less flexible form of masking.
 
 | 
 | 
@@ -130,7 +130,7 @@ Blend Accuracy Extension
 * Difference
 * Exclusion
 
-These blending modes use legacy blending if you have more than a Albedo output on some platforms.
+These blending modes use legacy blending if you have more than an Albedo output on some platforms.
 
 **Implementation Notes**
 

@@ -22,7 +22,7 @@ Creating our skeleton
     .. image:: img/tutorial02-nodeadd.png
         :align: right
 
-    To add new nodes to the tree right click an existing node and select the type of Node you want within the ``Add`` submenu, in this case we want the ``Node`` node type.
+    To add new nodes to the tree right-click an existing node and select the type of Node you want within the ``Add`` submenu, in this case we want the ``Node`` node type.
 
 .. tip:: 
    .. container:: ada-block
@@ -32,7 +32,7 @@ Creating our skeleton
             :align: left
             :width: 128px
     
-        | The ``Add`` submenu will add the Node as a child to the node you right clicked!
+        | The ``Add`` submenu will add the Node as a child to the node you right-clicked!
         | 
         | See the :doc:`Nodes </creator/nodes/index>` page for more information about how parenting works!
 
@@ -47,7 +47,7 @@ Creating our skeleton
     .. image:: img/tutorial02-rename.png
         :align: right
 
-    After adding our new Node, we'll see it appear as "Unnamed Node" within the node tree. We should probably rename it so that it's easier to to know what it does at a glance.
+    After adding our new Node, we'll see it appear as "Unnamed Node" within the node tree. We should probably rename it so that it's easier to know what it does at a glance.
 
     Click the node and within the Inspector panel, rename the node to "Neck Root"
 

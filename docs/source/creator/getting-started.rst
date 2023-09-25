@@ -30,7 +30,7 @@ The following system requirements have to be met before running Inochi Creator.
       - 960x800 
       - 1920x1080 or higher 
 
-Inochi Creator does not support 32 bit systems currently to reduce the maintenance burden.
+Inochi Creator does not support 32-bit systems currently to reduce the maintenance burden.
 
 ------------
 
@@ -92,7 +92,7 @@ You can download example models on the same page you downloaded the version of I
 Notes
 -----
 
-.. [#req_cpu] *x86_64 and ARM64 refers to 64 bit CPUs by ARM, Intel and AMD.*
+.. [#req_cpu] *x86_64 and ARM64 refers to 64-bit CPUs by ARM, Intel and AMD.*
 
 
 .. [#req_space] *Disk Space requirements depend on the size and amount of models you have on your system.*

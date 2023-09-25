@@ -73,7 +73,9 @@ Ada is Inochi2D's mascot, an airheaded, friendly and helpful foxgirl. She will a
    :name: sec-session
    :hidden:
 
-   session/index
+   session/about
+   session/typical-workflow
+   session/getting-started
 
 .. toctree::
    :maxdepth: 2

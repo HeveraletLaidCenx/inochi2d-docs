@@ -18,7 +18,7 @@ Some settings may be discarded due to incompatibility with the output file forma
 
     You will need at least 1 animation and 1 camera in your scene to export video!
 
-    Otherwise you just get a sad error box telling you to go do that.
+    Otherwise, you just get a sad error box telling you to go do that.
 
 -----------
 
@@ -83,7 +83,7 @@ Codec
 
 Which video codec to use for export, by default Inochi Creator will try to automatically infer the codec.
 
-Eg. for H.264 video you'll want to export an mp4 file, with the H.264 codec selected in the list.
+E.g. for H.264 video you'll want to export a mp4 file, with the H.264 codec selected in the list.
 
 
 .. warning:: 

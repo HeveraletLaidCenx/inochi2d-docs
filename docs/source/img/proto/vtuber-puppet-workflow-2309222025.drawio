@@ -1,0 +1,85 @@
+<mxfile host="Electron" modified="2023-09-22T12:27:13.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.7.5 Chrome/114.0.5735.289 Electron/25.8.1 Safari/537.36" etag="dWCZ-Y8HQ_exkyd7xbGW" version="21.7.5" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1450" dy="629" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#0D0D0D" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="PoZYrtmK4265gla2YqzD-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#cd69aa;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=14;fontColor=default;fillColor=none;dashed=1;spacing=12;align=center;arcSize=6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-360" y="408" width="528" height="384" as="geometry" />
+        </mxCell>
+        <mxCell id="2h21Jj9Y1_qzKKFVWbUJ-16" value="you can do this yourself or look for Artist / Puppet Rigger" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4137D2;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=center;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-354" y="816" width="516" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2h21Jj9Y1_qzKKFVWbUJ-17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#4837d7;strokeWidth=3;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;endArrow=none;endFill=0;endSize=6;targetPerimeterSpacing=0;spacing=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PoZYrtmK4265gla2YqzD-25" target="2h21Jj9Y1_qzKKFVWbUJ-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.343;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Ubuntu Mono;fontSize=14;fontColor=default;curved=1;strokeWidth=3;endSize=6;endArrow=none;endFill=0;targetPerimeterSpacing=0;strokeColor=#6448dc;exitPerimeter=0;spacing=12;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PoZYrtmK4265gla2YqzD-0" target="PoZYrtmK4265gla2YqzD-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.657;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Ubuntu Mono;fontSize=14;fontColor=default;endArrow=none;strokeWidth=3;endSize=6;endFill=0;targetPerimeterSpacing=0;curved=1;strokeColor=#6448dc;exitPerimeter=0;spacing=12;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PoZYrtmK4265gla2YqzD-0" target="PoZYrtmK4265gla2YqzD-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-0" value="Inochi2D Vtuber Puppet Workflow" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;strokeColor=#d75ca0;fontSize=24;fontStyle=0;spacing=12;align=center;autosize=1;fontFamily=Ubuntu Mono;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-18" y="36" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-1" value="Puppet Creation" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#cd69aa;fontSize=16;fontStyle=0;autosize=1;spacing=8;align=center;fontFamily=Ubuntu Mono;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-78" y="192" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-3" value="Puppet Streaming" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#cd69aa;fontSize=16;fontStyle=0;spacing=8;align=center;autosize=1;fontFamily=Ubuntu Mono;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="192" width="168" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-13" value="clarify your character&#39;s appearance" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4137D2;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=center;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-180" y="336" width="324" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-10" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Designing&lt;/b&gt;: design your character" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9b41e1;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=center;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-156" y="288" width="300" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-14" value="&lt;font color=&quot;#ff857a&quot;&gt;Inochi Creator&lt;/font&gt; can load these file formats:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#00cc00&quot;&gt;.psd&lt;/font&gt;&amp;nbsp; - from e.g. &lt;font color=&quot;#3399ff&quot;&gt;Photoshop&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#00cc00&quot;&gt;.kra&lt;/font&gt;&amp;nbsp; - from e.g. &lt;font color=&quot;#3399ff&quot;&gt;Krita&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#00cc00&quot;&gt;.clip&lt;/font&gt; - from e.g. &lt;font color=&quot;#3399ff&quot;&gt;Clip Studio Paint&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4137D2;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=left;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-240" y="480" width="384" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-11" value="&lt;b&gt;Painting&lt;/b&gt;: turn your character into &lt;font color=&quot;#ff857a&quot; style=&quot;font-size: 16px;&quot;&gt;Layered Art Resource&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9b41e1;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=center;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-336" y="432" width="480" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-15" value="finally export to a &lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 16px;&quot;&gt;.inp&lt;/font&gt; file" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4137D2;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=center;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-132" y="720" width="276" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-12" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Rigging&lt;/b&gt;: create &lt;font color=&quot;#ff857a&quot; style=&quot;font-size: 16px;&quot;&gt;Inochi Puppet&lt;/font&gt;&amp;nbsp;and rig it by using&amp;nbsp;&lt;br&gt;&lt;font color=&quot;#ff857a&quot; style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Inochi Creator&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9b41e1;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;align=left;spacing=8;autosize=1;spacingLeft=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-300" y="660" width="444" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2h21Jj9Y1_qzKKFVWbUJ-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#D75CA0;strokeWidth=3;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;endArrow=classicThin;endFill=1;endSize=6;targetPerimeterSpacing=0;spacing=8;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PoZYrtmK4265gla2YqzD-15" target="PoZYrtmK4265gla2YqzD-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoZYrtmK4265gla2YqzD-16" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Loading&lt;/b&gt;: load &lt;font color=&quot;#ff857a&quot; style=&quot;font-size: 16px;&quot;&gt;Inochi Puppet&lt;/font&gt; into &lt;font color=&quot;#ff857a&quot; style=&quot;font-size: 16px;&quot;&gt;Inochi Session&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9b41e1;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=center;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="288" width="420" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2h21Jj9Y1_qzKKFVWbUJ-9" value="by&amp;nbsp;&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 16px;&quot;&gt;iFacialMocap&amp;nbsp;&lt;/font&gt;/ &lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 16px;&quot;&gt;OpenSeeFace&amp;nbsp;&lt;/font&gt;/ &lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 16px;&quot;&gt;VMC&amp;nbsp;&lt;/font&gt;/ &lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 16px;&quot;&gt;VTubeStudio&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4137D2;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=center;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="432" width="432" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2h21Jj9Y1_qzKKFVWbUJ-8" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Linking&lt;/b&gt;: choose a &lt;font color=&quot;#ff857a&quot; style=&quot;font-size: 16px;&quot;&gt;Facial Capture&lt;/font&gt;&amp;nbsp;approach to link" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9b41e1;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=center;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="384" width="432" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2h21Jj9Y1_qzKKFVWbUJ-10" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Tracking &amp;amp; Testing&lt;/b&gt;: start tracking and test your &lt;font color=&quot;#ff857a&quot; style=&quot;font-size: 16px;&quot;&gt;Puppet&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9b41e1;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=center;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="528" width="480" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2h21Jj9Y1_qzKKFVWbUJ-12" value="e.g. to &lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 16px;&quot;&gt;OBS Studio&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4137D2;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=center;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="672" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2h21Jj9Y1_qzKKFVWbUJ-11" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Streaming&lt;/b&gt;: stream to your &lt;font color=&quot;#ff857a&quot; style=&quot;font-size: 16px;&quot;&gt;Live Streaming Software&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9b41e1;strokeWidth=2;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;fillColor=none;perimeterSpacing=0;glass=0;spacing=8;align=center;autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="624" width="432" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2h21Jj9Y1_qzKKFVWbUJ-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#D75CA0;strokeWidth=3;fontFamily=Ubuntu Mono;fontSize=16;fontColor=default;endArrow=classicThin;endFill=1;endSize=6;targetPerimeterSpacing=0;spacing=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2h21Jj9Y1_qzKKFVWbUJ-12" target="2h21Jj9Y1_qzKKFVWbUJ-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="696" />
+              <mxPoint x="480" y="804" />
+              <mxPoint x="192" y="804" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2h21Jj9Y1_qzKKFVWbUJ-13" value="now you can show yourself as your new character &lt;font color=&quot;#ff857a&quot; style=&quot;font-size: 16px;&quot;&gt;Puppet&lt;/font&gt; to your audience!" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#cd69aa;fontSize=16;fontStyle=0;spacing=8;align=center;autosize=1;fontFamily=Ubuntu Mono;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-114" y="888" width="612" height="48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

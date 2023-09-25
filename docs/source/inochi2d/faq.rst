@@ -14,7 +14,7 @@ Is Inochi2D ready for use?
 --------------------------
 
 Inochi2D and the accompanying tools are still heavily work-in-progress. 
-They are usable for usecases we officially support, but it's still evolving very quickly so we can't promise that it is ready for game development.
+They are usable for use cases we officially support, but it's still evolving very quickly, so we can't promise that it is ready for game development.
 Some of the tooling is still a work in progress and will be improved with time to be easier to use.
 
 Can I load my PSD file in to Inochi Creator?
@@ -48,9 +48,9 @@ Inochi2D in of itself is just a format for 2D puppets/models. The official Inoch
 Why does text in Inochi Creator in X language look like question marks?
 -----------------------------------------------------------------------
 
-Inochi Creator uses ImGui to render its UI, as of current ImGui does not support dynamically loading glyphs from fonts, and loading every text character under the sun would be bad for performance. Until dynamic character loading is in place English and Japanese are the main supported languages.
+Inochi Creator uses ImGui to render its UI, as of current ImGui does not support dynamically loading glyphs from fonts, and loading every text character under the sun would be bad for performance. Until dynamic character loading is in place English and Japanese are the main-supported languages.
 Translations may specify metadata files with font and glyph range information for their respective languages, but text from those languages will only render properly if you set Inochi Creator to that language.
-Inochi Creator does not support languages that require advanced font shaping (eg. Arabic) as well as right-to-left languages currently due to ImGui limitations. If those limitations some day get solved we'll let you know.
+Inochi Creator does not support languages that require advanced font shaping (e.g. Arabic) as well as right-to-left languages currently due to ImGui limitations. If those limitations some day get solved we'll let you know.
 
 I would like to use Inochi2D for blockchain/web3/etc., is this supported?
 -------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 INP Specification
 ===========================
 
-INP Stands for **In**\ ochi2D **P**\ uppet, and is a binary container format to contain Inochi2D model, texture and extra data.
+INP Stands for **In**ochi2D **P**uppet, and is a binary container format to contain Inochi2D model, texture and extra data.
 
 INP is subject to change as we get closer to the 1.0 release.
 

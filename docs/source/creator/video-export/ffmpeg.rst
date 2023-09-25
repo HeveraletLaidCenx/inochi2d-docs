@@ -19,7 +19,7 @@ Manual local installation
 System-wide with Chocolatey
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If you have `Chocolatey <https://docs.chocolatey.org/en-us/choco/setup>`__ installed you can install ffmpeg system wide with it.
+If you have `Chocolatey <https://docs.chocolatey.org/en-us/choco/setup>`__ installed you can install ffmpeg system-wide with it.
 
 .. code-block:: 
     :linenos:
@@ -40,7 +40,7 @@ Installing FFMPEG on macOS
 --------------------------
 FFMPEG can be installed on macOS through homebrew, which you can install here https://brew.sh/
 
-Once brew is setup you can run the following command to install ffmpeg to your system.
+Once brew is set up you can run the following command to install ffmpeg to your system.
 
 .. code-block:: 
     :linenos:

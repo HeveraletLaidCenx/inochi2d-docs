@@ -42,7 +42,7 @@ The scene graph is accessed via the Nodes panel, which displays them in a tree v
 
 | The properties of a Node are accessed via the Inspector panel, depending on the type of the Node, the items in the Inspector panel will change.
 | 
-| The Inspector Panel's contents are divided in to sections which can be collapsed by clicking their header, Each section contains settings for a specific subtype of that Node.
+| The Inspector Panel's contents are divided into sections which can be collapsed by clicking their header, Each section contains settings for a specific subtype of that Node.
 | 
 | For example, a *Part* Node is based on the *Drawable* Node type, which in turn is based on the *Node* type. As such you will see properties for Node (Transform), Drawable and Part as sections.
 

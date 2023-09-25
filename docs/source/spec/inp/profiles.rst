@@ -2,10 +2,10 @@
 Profiles & Extensions
 =====================
 
-| **NOTE**: Profiles and extensions are a *to be implemented* feature of the Inochi2D specification.
+| **NOTE**: This section is a *to be implemented* feature of the Inochi2D specification.
 | *Most of this documentation is preliminary context.*
 
-| The Inochi2D format is meant to be portable and usable across many platforms, but for some usescases you want more powerful features.
+| The Inochi2D format is meant to be portable and usable across many platforms, but for some use cases you want more powerful features.
 | For example, maybe you're targeting modern PCs or smartphones and your project's artists want more flexibility in how they render their art.
 | Inochi2D provides Profiles and Extensions to cover these needs.
 |
@@ -15,7 +15,7 @@ Profiles & Extensions
 2. Standard
 3. Extended
 
-| Additionally Inochi2D will be supporting named extensions to the format, so that implementors can chose to add, remove or modify features of the spec for their needs.
+| Additionally, Inochi2D will be supporting named extensions to the format, so that implementors can be chosen to add, remove or modify features of the spec for their needs.
 | Every vendor which makes an extension has a unique prefix. The official Inochi2D Extension prefix is ``I2D``.
 | Extensions will depend on a profile and Inochi2D version to be available, the extensions will in general specify which version of Inochi2D they target and what profile.
 
@@ -43,7 +43,7 @@ The Core Profile
 
 | Core is meant for low power devices which may not have recent features, think PCs from 2012 and newer, or smartphones from 2013.
 | As such, Core is quite stripped down compared to what you see in Inochi Creator by default, and is to some extent rather limited.
-| Due to the nature of the core profile it's not recommended for most use cases, only use this if you're targetting really old hardware.
+| Due to the nature of the core profile it's not recommended for most use cases, only use this if you're targeting really old hardware.
 
 .. list-table:: 
     :header-rows: 1
